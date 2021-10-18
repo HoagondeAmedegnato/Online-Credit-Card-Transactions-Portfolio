@@ -106,3 +106,5 @@ In order to develop this credit card fraud detection, I’ve used the unsupervis
 
 In order to train and evaluate the model:
 * I’ve calculated the Accuracy Score and the Confusion Matrix of these Supervised Machine Learning:
+			
+* ![image](https://user-images.githubusercontent.com/79173300/137682138-0275ae76-01fa-4e0b-be9e-5b0921e2187f.png)
