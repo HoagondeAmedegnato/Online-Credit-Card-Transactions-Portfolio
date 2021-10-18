@@ -104,4 +104,5 @@ IV.	***Model Development***: 01.Model Development.ipynb
 
 In order to develop this credit card fraud detection, I’ve used the unsupervised machine learning technique to improve the process efficiency. Machine learning models are able to learn from patterns of normal behavior. They are very fast to adapt to changes in that normal behavior and can quickly identify patterns of fraud transactions. This means that the model can identify suspicious customers even when there hasn't been a chargeback yet.
 
-As part of this, I’ve implemented the following steps:
+In order to train and evaluate the model:
+* I’ve calculated the Accuracy Score and the Confusion Matrix of these Supervised Machine Learning:
