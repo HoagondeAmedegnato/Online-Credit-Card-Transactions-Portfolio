@@ -192,3 +192,22 @@ pca | pca | cluster
 
 ____
 V.	***Findings and Takeaways***
+
+Statistical analysis, many plots about the visualizations have been made to describe the credit card dataset along with this project. During this analysis, the problem is how can we, in the future, reduce the number of 2052 frauds cards. In this case, I’ve used the machine learning techniques to scale the dataset, trained and evaluated the model in order to predict. There:
+
+* I have received 77.21% accuracy on Training data and 74.29% accuracy on Test data in my credit card fraud detection; which means that XGBoost and Decision Tree are the winners, since they represent the highest score, respectively, 0.7721596101127018 in term of an accuracy score of the training data and 0.7429963459196103 in term of an accuracy score of the test data.
+
+* I have used Principal Component Analysis (PCA), K-Means and Autoencoders to predict the credit card scaled and plotted the prediction
+
+Review credit card and bank statements to make sure you recognize transactions. Using a card issuer's smartphone app and setting up text notifications are ways to stay updated. Check credit reports regularly. You're entitled to one free credit report every year from each of the three major credit reporting bureaus.
+
+As part of this project, I would like to share some recommendations that will help to avoid such fraud; for example: 
+
+* Never share personal and financial details over the phone or email.
+* Do not respond to calls that ask for personal and financial information.
+* Never share your ATM and debit/credit care PIN, internet banking password, or any details regarding your bank accounts.
+* Keep your credit cards safe. Store your cards in a secure wallet or purse. 
+* Don't allow websites to “remember” your card number.
+* Be wary when shopping online.
+* Report lost or stolen cards immediately.
+* Review your monthly bill.
